@@ -13,4 +13,3 @@ function onInputBlur (evt) {
 };
 
 input.addEventListener('blur', onInputBlur);
-console.log(onInputBlur)

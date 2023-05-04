@@ -13,8 +13,7 @@ function onFormSubmit(evt) {
     };
 
     evt.currentTarget.reset()
-    console.log(formData)
+
 };
 
 form.addEventListener('submit',onFormSubmit);
-console.log(onFormSubmit)

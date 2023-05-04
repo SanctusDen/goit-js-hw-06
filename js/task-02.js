@@ -18,4 +18,4 @@ const elements = ingredients.map((ingredient) => {
 })
 
 ingredientsAll.append(...elements)
-console.log(ingredientsAll);
+
